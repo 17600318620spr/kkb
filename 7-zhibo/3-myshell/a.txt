@@ -1,0 +1,7 @@
+cmd = [ls -la] file = [a.txt]
+total 32
+drwxrwxr-x 2 hjy hjy  4096 Mar 31 15:02 .
+drwxrwxr-x 6 hjy hjy  4096 Mar 31 11:29 ..
+-rw-rw-r-- 1 hjy hjy    30 Mar 31 15:02 a.txt
+-rwxrwxr-x 1 hjy hjy 13208 Mar 31 15:00 myshell
+-rw-rw-r-- 1 hjy hjy  3589 Mar 31 15:00 myshell.c
